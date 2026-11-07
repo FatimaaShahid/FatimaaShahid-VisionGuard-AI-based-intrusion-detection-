@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# Generated output
+output/
+Detection/output/
+Alerts/output/
+
+# Test data
+Test_data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+
+# Logs
+*.log
